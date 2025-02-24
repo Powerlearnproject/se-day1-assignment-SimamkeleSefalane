@@ -7,12 +7,10 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 - Softare engineering is the designing, developing, maintanance of software systems that ensure that the end product meets the users requirements.
 - It is important because the field continues to push boundaries and explore new frontiers in software development, and its paving the way for groundbreaking advancements in many industries.
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 - Structured Programming (1960s)
 - Waterfall Model (1970s)
 - Agile Methodologies (Early 2000s)
-
 List and briefly explain the phases of the Software Development Life Cycle.
 - Planning: Define the projects goal
 - Requirements analysis: Gather and analyze the requirements of the project
@@ -21,8 +19,6 @@ List and briefly explain the phases of the Software Development Life Cycle.
 - Testing: Make sure the application is running as it was intended
 - Deployment: Make the application available for use
 - Maintanance: Improve the application continuosly
-
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 - Waterfall follows a linear and sequential process with distict phases whereas Agile uses an iterative approach with continuous feedback loops.
 - When to use Waterfall: Projects that have require detailed documentation
@@ -34,18 +30,15 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 - The developer writes the code and develops the entire software product.
 - The QA engineers perform tests on thr code to guarantee high quality product to the end user
 - Assign tasks, evaluate the teams performance and provide guidance throughout the entire process
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 - They are important because they enhance developer productivityt by streamlining code editing and tracking changes made to the team overtime.
 - VS Code, PyCharm, Netbeans
 - Github, Bitbucket, Helix Core
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 - Limited infrastructure, tight deadlines and keeping up with technology.
 - Adopt continuous learning practices.
 - Effective time management strategies are essential
 - They must rely on robust infrastructure to perform their jobs effectively
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 - Unit testing: Tests individual units of code in isolation to ensure their correctness.
 - Integration testing: Tests how different units interact with each other
